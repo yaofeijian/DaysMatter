@@ -1,0 +1,8 @@
+"Gallery.Images.Title" = "相册";
+"Gallery.Camera.Title" = "相机";
+"Gallery.Videos.Title" = "视频";
+"Gallery.Done" = "完成";
+"GalleryAndCamera.Permission.Info" = "请允许访问您的相册和相机";
+
+"Gallery.Permission.Info" = "请允许访问您的相册";
+"Gallery.Permission.Button" = "设置";
